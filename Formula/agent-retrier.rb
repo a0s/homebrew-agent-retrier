@@ -1,8 +1,8 @@
 class AgentRetrier < Formula
   desc "Keep a Claude Code or codex session going when it stops"
   homepage "https://github.com/a0s/agent-retrier"
-  url "https://github.com/a0s/agent-retrier/archive/refs/tags/v3.1.3.tar.gz"
-  sha256 "26a2c6ab43a43cba5438ad7b86df2548d1a380c46e278741d63fc7f45173a697"
+  url "https://github.com/a0s/agent-retrier/archive/refs/tags/v3.1.4.tar.gz"
+  sha256 "3f2c26df926c988ce02f7c87291832906a04da8d1fcfa2168fdee2fafb18e327"
   license "MIT"
   head "https://github.com/a0s/agent-retrier.git", branch: "main"
 
